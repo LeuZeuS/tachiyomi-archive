@@ -1,4 +1,4 @@
-Archive de Tachiyomi (Not in dev)
+Archive of Tachiyomi (Not in dev)
 
 | Build | Stable | Weekly Preview | Contribute |
 |-------|--------|----------------|------------|
